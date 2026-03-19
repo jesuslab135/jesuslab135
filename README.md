@@ -17,16 +17,6 @@
 
 ### 🧠 About Me
 
-```python
-class EstebanOlmos:
-    role       = "Full-Stack Software Developer"
-    education  = "Software Development @ UTT (Tijuana)"
-    languages  = ["Spanish 🇲🇽", "English 🇺🇸", "French 🇫🇷"]
-
-    def daily(self):
-        return ["code", "break things", "fix things", "learn something new", "repeat"]
-```
-
 - 🔭 Currently working as **NOC Operator & QA Engineer** at **Caliente Interactive**
 - 🛠️ I build everything from **fleet logistics platforms** to **real-time IoT systems**
 - 🧪 Passionate about **observability** — Prometheus, Loki, Grafana are my daily drivers
