@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:lidering.esteban@gmail.com"><img src="https://img.shields.io/badge/Email-lidering.esteban@gmail.com-1B5E7B?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://gitlab.com/jesuslab135"><img src="https://img.shields.io/badge/GitLab-jesuslab135-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
+  <a href="https://github.com/jesuslab135"><img src="https://img.shields.io/badge/GitHub-jesuslab135-FC6D26?style=flat-square&logo=githab&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Tijuana%2C%20MX-555?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=jesuslab135&style=flat-square&color=1B5E7B" alt="Profile views" />
 </p>
