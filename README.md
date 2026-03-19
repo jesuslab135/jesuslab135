@@ -91,18 +91,6 @@ class EstebanOlmos:
 | **IoT Recovery Assistant** | ML-powered monitoring system analyzing biometric wearable data with real-time WebSocket alerts | Python · Redis · Celery · React |
 | **Brewery Automation** | Dual-database IoT platform for real-time sensor ingestion (pH, temp, pressure) via MQTT + Arduino | ASP.NET · MongoDB · React Native |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesuslab135&show_icons=true&theme=default&hide_border=true&title_color=1B5E7B&icon_color=1B5E7B&text_color=555&bg_color=00000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuslab135&layout=compact&hide_border=true&title_color=1B5E7B&text_color=555&bg_color=00000000&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesuslab135&hide_border=true&ring=1B5E7B&fire=E6522C&currStreakLabel=1B5E7B&sideLabels=555&dates=999" />
-</p>
 
 ---
 
